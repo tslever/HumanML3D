@@ -1,3 +1,6 @@
+__pycache__
 .ipynb_checkpoints
 amass_data
 body_models
+joints
+pose_data
