@@ -1,5 +1,7 @@
 __pycache__
 .ipynb_checkpoints
+Mean.npy
+Std.npy
 amass_data
 body_models
 joints
