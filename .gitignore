@@ -3,6 +3,7 @@ __pycache__
 Mean.npy
 Std.npy
 amass_data
+animations
 body_models
 joints
 new_joints
