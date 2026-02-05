@@ -355,3 +355,7 @@ print(abs(reference1 - reference1_1).sum())
 
 
 print(abs(reference2 - reference2_1).sum())
+
+
+print("joints max abs:", np.max(np.abs(reference1 - reference1_1)))
+print("vecs   max abs:", np.max(np.abs(reference2 - reference2_1)))
