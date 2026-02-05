@@ -3,4 +3,6 @@ __pycache__
 amass_data
 body_models
 joints
+new_joints
+new_joint_vecs
 pose_data
